@@ -1,2 +1,5 @@
 # hello-world
-Teste de criação do primeiro repositório
+
+Olá, esta é uma fase de teste para aprender a codificação
+
+Parece difícil....pq é difícil!!
